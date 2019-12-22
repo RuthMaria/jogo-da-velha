@@ -7,7 +7,7 @@ package Servidor;
 
 /**
  *
- * @author jhonatan
+ * @author Ruth Maria e jhonatan Mickael
  */
 public class Espera extends javax.swing.JDialog {
 
